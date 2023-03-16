@@ -1,0 +1,13 @@
+size,price,rooms,location,expensive
+2000,800000,4,north,yes
+1500,600000,3,south,no
+2500,1200000,5,east,yes
+1800,900000,4,west,yes
+3000,1500000,6,north,yes
+1700,850000,4,south,yes
+2200,1100000,5,east,yes
+1900,950000,4,west,yes
+1200,400000,2,north,no
+900,300000,1,south,no
+1500,500000,3,east,no
+1000,250000,1,west,no
